@@ -1,0 +1,15 @@
+* Prelude: Inverse and forward images
+** forward image def
+*** forward image props
+** inverse image def
+*** inverse image props
+** mixed props
+
+* Prelude: Topology in metric space
+** properties of metric spaces
+** interior pt/open
+** cluster pt/closed
+
+* Topology 
+** definition
+
