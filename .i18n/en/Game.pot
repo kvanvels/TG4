@@ -1,7 +1,7 @@
 msgid ""
 msgstr "Project-Id-Version: Game v4.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: Tue Jan 28 12:59:33 2025\n"
+"POT-Creation-Date: Thu Jan 30 11:47:56 2025\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -20,27 +20,87 @@ msgstr ""
 msgid "intermediate goal solved! 🎉"
 msgstr ""
 
-#: Game.Levels.ImageWorld.L01_ImageDef
+#: Game.Levels.ImageWorld.mem_image
 msgid "Hello World BLAH"
 msgstr ""
 
-#: Game.Levels.ImageWorld.L01_ImageDef
+#: Game.Levels.ImageWorld.mem_image
 msgid "Introduction :BLAH"
 msgstr ""
 
-#: Game.Levels.ImageWorld.L01_ImageDef
+#: Game.Levels.ImageWorld.mem_image
 msgid "This last message appears if the level is solved."
 msgstr ""
 
-#: Game.Levels.ImageWorld.L02_ImageMonotone
+#: Game.Levels.ImageWorld.mem_image_of_mem
+msgid "Hello World BLAH"
+msgstr ""
+
+#: Game.Levels.ImageWorld.mem_image_of_mem
+msgid "Introduction :BLAH"
+msgstr ""
+
+#: Game.Levels.ImageWorld.mem_image_of_mem
+msgid "This last message appears if the level is solved."
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_mono
 msgid "Image is monotone"
 msgstr ""
 
-#: Game.Levels.ImageWorld.L02_ImageMonotone
+#: Game.Levels.ImageWorld.image_mono
 msgid ""
 msgstr ""
 
-#: Game.Levels.ImageWorld.L02_ImageMonotone
+#: Game.Levels.ImageWorld.image_mono
+msgid "Last message"
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_empty
+msgid ""
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_empty
+msgid ""
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_empty
+msgid "Last message"
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_empty_iff
+msgid ""
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_empty_iff
+msgid ""
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_empty_iff
+msgid "Last message"
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_union
+msgid ""
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_union
+msgid ""
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_union
+msgid "Last message"
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_inter_subset
+msgid ""
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_inter_subset
+msgid ""
+msgstr ""
+
+#: Game.Levels.ImageWorld.image_inter_subset
 msgid "Last message"
 msgstr ""
 

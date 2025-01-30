@@ -1,13 +1,14 @@
 import Game.Metadata
+import Game.Levels.ImageWorld.Metadata
 
 World "ImageWorld"
-Level 3
+Level 6
 
 Title ""
 
 Introduction ""
 
-Statement {X Y : Type} {s t : Set X} {f : X → Y} : f '' (s ∪ t) = f '' s ∪ f '' t := by 
+Statement {s t : Set X} {f : X → Y} : f '' (s ∪ t) = f '' s ∪ f '' t := by
   apply subset_antisymm
   rintro y ⟨x,(hx0|hx1),hx2⟩
   apply Or.inl
@@ -20,7 +21,7 @@ Statement {X Y : Type} {s t : Set X} {f : X → Y} : f '' (s ∪ t) = f '' s ∪
   apply Or.inl hx
   exact hx1
   use x
-  apply And.intro 
+  apply And.intro
   apply Or.inr hx
   exact hx1
 
@@ -29,5 +30,6 @@ Conclusion "Last message"
 
 
 -- NewTactic rw rfl
--- NewTheorem Nat.add_comm Nat.add_assoc
+NewTheorem Set.image_union
+
 -- NewDefinition Nat Add Eq

@@ -1,4 +1,5 @@
 import Game.Metadata
+import Game.Levels.ImageWorld.Metadata
 
 World "ImageWorld"
 Level 2

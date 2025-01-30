@@ -1,7 +1,20 @@
 * Prelude: Inverse and forward images
 ** forward image def
 *** forward image props
-*** forward image nonprops
+**** DONE mem_image
+**** DONE image_mono
+**** DONE image_empty
+**** DONE image_empty_iff
+**** union
+**** sUnion
+**** intersection (arbitrary union)
+**** proper subset of intersection
+**** set difference
+**** symm difference
+
+
+
+
 ** inverse image def
 *** inverse image props
 *** inverse image nonprops
